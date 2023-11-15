@@ -3,8 +3,7 @@ title: "Github Class Demo"
 author: "Teena Thomas"
 date: "2023-11-15"
 output: html_document:
-    keep_md: true
----
+        keep_md: true
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
